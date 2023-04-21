@@ -15,7 +15,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/your_username/safeclose"
+	"github.com/yesuu/safeclose"
 	"time"
 )
 
